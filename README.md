@@ -1,4 +1,4 @@
-# SmartCal ⚡️
+# SmartCal 
 
 > **Schedule smarter, focus better.**
 > L'alternative intelligente aux calendriers classiques, conçue pour la productivité et le Deep Work.
